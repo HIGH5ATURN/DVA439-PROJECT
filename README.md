@@ -39,7 +39,7 @@ Please replace weights_dir data_dir and result_dir in test.py, and put your test
 #### Pre-trained model
 It can be downloaded from：
 
-Link: https://pan.baidu.com/s/1ED2hIoAiPciAHAqDt_pNMg 
+Link: https://drive.google.com/drive/folders/1WiFnUh6WRIiFr7sb-h3lAcoqzi6ZyTvz?usp=sharing
 
 Extract code: LMQF
 
