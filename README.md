@@ -41,7 +41,10 @@ It can be downloaded from：
 
 Link: https://drive.google.com/drive/folders/1WiFnUh6WRIiFr7sb-h3lAcoqzi6ZyTvz?usp=sharing
 
-
+# Qualcomm Ai hub
+The model has been compiled and profiled in Qualcomm AI Hub to optimize its performance on specific chipsets such as QC8550. 
+This ensures efficient execution by leveraging hardware acceleration and optimizing resource utilization. 
+A link to Qualcomm AI Hub is also provided: https://aihub.qualcomm.com/
 
 
 # Citations
