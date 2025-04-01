@@ -46,7 +46,9 @@ The model has been compiled and profiled in Qualcomm AI Hub to optimize its perf
 This ensures efficient execution by leveraging hardware acceleration and optimizing resource utilization. 
 A link to Qualcomm AI Hub is also provided: https://aihub.qualcomm.com/
 
-
+#### Converting to onnx format
+The script converter_to_onnx.py converts the pre-trained model to onnx format so that its easier to compile this model on Qualcomm ai hub.
+ 
 # Citations
 Please cite this paper in your publications if it is helpful for your tasks:    
 
